@@ -1,0 +1,3 @@
+﻿  Bogosort.cpp
+c:\users\user\desktop\aplefull\vs\bogosort\bogosort\bogosort.cpp(11): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Bogosort.vcxproj -> C:\Users\User\Desktop\Aplefull\VS\Bogosort\Debug\Bogosort.exe
