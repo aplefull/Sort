@@ -1,3 +1,4 @@
-﻿  Sorts.cpp
-c:\users\user\source\repos\sort\sorts\sorts\sorts.cpp(470): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+﻿  stdafx.cpp
+  Sorts.cpp
+c:\users\user\source\repos\sort\sorts\sorts\sorts.cpp(480): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
   Sorts.vcxproj -> C:\Users\User\source\repos\Sort\Sorts\Debug\Sorts.exe
