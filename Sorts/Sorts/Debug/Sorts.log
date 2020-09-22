@@ -1,5 +1,0 @@
-﻿  stdafx.cpp
-  Sorts.cpp
-C:\Users\Mi\source\repos\Sort\Sorts\Sorts\Sorts.cpp(466,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  Sorts.vcxproj -> C:\Users\Mi\source\repos\Sort\Sorts\Debug\Sorts.exe
-
